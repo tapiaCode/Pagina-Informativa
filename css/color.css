@@ -1,0 +1,28 @@
+.option { background-color: rgb(209, 92, 71); }
+.navbar-default.small .site-title h3 { color: rgb(230, 164, 153); }
+.home-text h2 span { background-color: rgb(209, 92, 71); }
+.what-i-do { background-color: rgb(209, 92, 71); }
+.what-icon { color: rgb(230, 164, 153); }
+.underline { background-color: rgb(209, 92, 71); }
+.about-link-1 { background-color: rgb(209, 92, 71); border: 3px solid rgb(155, 56, 39); }
+.about-link-2 { background-color: rgb(209, 92, 71); border: 3px solid rgb(155, 56, 39); }
+.about-link-1:hover { border: 3px solid rgb(209, 92, 71); }
+.about-link-2:hover { border: 3px solid rgb(209, 92, 71); }
+.work-counter { background-color: rgb(209, 92, 71); }
+.resume-details-part h3 { color: rgb(230, 164, 153); }
+.resume-details-grid { border-left: 1px solid rgb(209, 92, 71); }
+.resume-details-grid h4 { color: rgb(230, 164, 153); }
+.resume-icon { color: rgb(230, 164, 153); }
+#filters li span.active { background: rgb(209, 92, 71); }
+.overlay { background-color: rgba(200, 87, 50, 0.88); }
+.fancybox-skin { background: rgb(209, 92, 71); }
+.service-icon { color: rgb(230, 164, 153); }
+.service-details::before { border-left: 2px solid rgb(209, 92, 71); border-top: 2px solid rgb(209, 92, 71); }
+.service-details:hover::before { border-left: 2px solid rgb(209, 92, 71); border-top: 2px solid rgb(209, 92, 71); }
+.fa-4x { color: rgb(230, 164, 153); }
+#fade-quote-carousel.carousel .carousel-indicators > li { background-color: rgb(209, 92, 71); }
+.contact-row { background-color: rgb(209, 92, 71); }
+.navbar-default .navbar-nav > li > a:hover { color: rgb(230, 164, 153); }
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover { background-color: transparent; color: rgb(230, 164, 153) !important; }
+.resume-part::before { background-color: rgb(209, 92, 71); }
+.contact-col { background-color: rgb(209, 92, 71); }
